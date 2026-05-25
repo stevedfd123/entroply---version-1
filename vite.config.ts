@@ -4,7 +4,7 @@ import path from 'path';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/remix-entropy-flow-visualizer/',
+  base: '/entroply---version-1/',
 
   plugins: [react(), tailwindcss()],
 
