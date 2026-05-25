@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Entropy Flow Visualizer - old",
+  "description": "Visualizes flowcharts and processes as clean, interactive, and beautiful animated maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
